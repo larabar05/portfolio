@@ -18,7 +18,7 @@ a:hover, a:active, a:focus {
      text-decoration: underline;
 }
 .homePage {
-	background: #F2F2F2;
+	background: #FBEBD2;
 }
 .container {
 	width: 960px;
@@ -44,7 +44,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
 }
 .content {
-	background: #FBEBD2;
+	background: #F2F2F2;
 	margin: 0px;
 	padding: 5;
 	float: left;
